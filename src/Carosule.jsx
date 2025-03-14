@@ -86,6 +86,54 @@ const Carosule = () => {
             img : "https://cocosolution.com/cms/uploads/o_1ebo7h0gt11ee3i7j764evn52a.jpg",
             title : "Google Tag Manager"
         },
+        {
+            img : "https://cocosolution.com/cms/uploads/o_1ebo7h0gt11ee3i7j764evn52a.jpg",
+            title : "Google Tag Manager"
+        },
+        {
+            img : "https://yt3.googleusercontent.com/ytc/AIdro_nvBz7NqQm8DcjhnnbdPubaNq9Q8zKwPi49pElthZdU8r2Z=s900-c-k-c0x00ffffff-no-rj",
+            title : "Google Analutics"
+        },
+        {
+            img : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcyB24Z5_lwzqr198_SmswSd0sUMi_YnP9IHhDlEBiWT9iU-gN2Zev3zfoOhDLwvqnrs&usqp=CAU",
+            title : "Hubspot"
+        },
+        {
+            img : "https://cocosolution.com/cms/uploads/o_1ebo7h0gt11ee3i7j764evn52a.jpg",
+            title : "Google Tag Manager"
+        },
+        {
+            img : "https://yt3.googleusercontent.com/ytc/AIdro_nvBz7NqQm8DcjhnnbdPubaNq9Q8zKwPi49pElthZdU8r2Z=s900-c-k-c0x00ffffff-no-rj",
+            title : "Google Analutics"
+        },
+        {
+            img : "https://cocosolution.com/cms/uploads/o_1ebo7h0gt11ee3i7j764evn52a.jpg",
+            title : "Google Tag Manager"
+        },
+        {
+            img : "https://cocosolution.com/cms/uploads/o_1ebo7h0gt11ee3i7j764evn52a.jpg",
+            title : "Google Tag Manager"
+        },
+        {
+            img : "https://yt3.googleusercontent.com/ytc/AIdro_nvBz7NqQm8DcjhnnbdPubaNq9Q8zKwPi49pElthZdU8r2Z=s900-c-k-c0x00ffffff-no-rj",
+            title : "Google Analutics"
+        },
+        {
+            img : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcyB24Z5_lwzqr198_SmswSd0sUMi_YnP9IHhDlEBiWT9iU-gN2Zev3zfoOhDLwvqnrs&usqp=CAU",
+            title : "Hubspot"
+        },
+        {
+            img : "https://cocosolution.com/cms/uploads/o_1ebo7h0gt11ee3i7j764evn52a.jpg",
+            title : "Google Tag Manager"
+        },
+        {
+            img : "https://yt3.googleusercontent.com/ytc/AIdro_nvBz7NqQm8DcjhnnbdPubaNq9Q8zKwPi49pElthZdU8r2Z=s900-c-k-c0x00ffffff-no-rj",
+            title : "Google Analutics"
+        },
+        {
+            img : "https://cocosolution.com/cms/uploads/o_1ebo7h0gt11ee3i7j764evn52a.jpg",
+            title : "Google Tag Manager"
+        },
     ]
 
     const dataLine3 = [
@@ -121,12 +169,68 @@ const Carosule = () => {
             img : "https://lh3.googleusercontent.com/mlUCKwnX9GvxtFmeqFCk93FlpM-fmMwUdrl31sP3Z2m8n6Kxy35Y9ln39dHTtuTbi0VW2mJ3rNbPKBfGqhR9fcrGO4I53vjBkk9jU9YZS_gevtedjDA",
             title : "Google My Business"
         },
+        {
+            img : "https://static.vecteezy.com/system/resources/previews/004/201/564/non_2x/meta-social-network-emblem-blue-stylish-letter-m-or-mobius-band-vector.jpg",
+            title : "Meta"
+        },
+        {
+            img : "https://lh3.googleusercontent.com/mlUCKwnX9GvxtFmeqFCk93FlpM-fmMwUdrl31sP3Z2m8n6Kxy35Y9ln39dHTtuTbi0VW2mJ3rNbPKBfGqhR9fcrGO4I53vjBkk9jU9YZS_gevtedjDA",
+            title : "Google My Business"
+        },
+        {
+            img : "https://yt3.googleusercontent.com/B4aoQ5O4MYcvhfd7yBHl1dROjUuf58xQaWsp4Ixrl8PknRFzGkxFdkUdeFX2PbLlaJDsBDzq=s900-c-k-c0x00ffffff-no-rj",
+            title : "Notion"
+        },
+        {
+            img : "https://lh3.googleusercontent.com/mlUCKwnX9GvxtFmeqFCk93FlpM-fmMwUdrl31sP3Z2m8n6Kxy35Y9ln39dHTtuTbi0VW2mJ3rNbPKBfGqhR9fcrGO4I53vjBkk9jU9YZS_gevtedjDA",
+            title : "Google My Business"
+        },
+        {
+            img : "https://static.vecteezy.com/system/resources/previews/004/201/564/non_2x/meta-social-network-emblem-blue-stylish-letter-m-or-mobius-band-vector.jpg",
+            title : "Meta"
+        },
+        {
+            img : "https://lh3.googleusercontent.com/mlUCKwnX9GvxtFmeqFCk93FlpM-fmMwUdrl31sP3Z2m8n6Kxy35Y9ln39dHTtuTbi0VW2mJ3rNbPKBfGqhR9fcrGO4I53vjBkk9jU9YZS_gevtedjDA",
+            title : "Google My Business"
+        },
+        {
+            img : "https://yt3.googleusercontent.com/B4aoQ5O4MYcvhfd7yBHl1dROjUuf58xQaWsp4Ixrl8PknRFzGkxFdkUdeFX2PbLlaJDsBDzq=s900-c-k-c0x00ffffff-no-rj",
+            title : "Notion"
+        },
+        {
+            img : "https://lh3.googleusercontent.com/mlUCKwnX9GvxtFmeqFCk93FlpM-fmMwUdrl31sP3Z2m8n6Kxy35Y9ln39dHTtuTbi0VW2mJ3rNbPKBfGqhR9fcrGO4I53vjBkk9jU9YZS_gevtedjDA",
+            title : "Google My Business"
+        },
     ]
 
   return (
-    <div className='pt-32 px-4' >
+    <div className='pt-32 px-4 ' >
 
-       <div className='flex overflow-x-clip' >
+<div class="marquee-container">
+  <div class="marquee-content flex">
+    {dataLine1.map((row,index)=>{
+    return <Card title={row.title} logo={row.img} key={index} />
+    })}
+  </div>
+</div>
+
+<div class="marquee-container mt-10">
+  <div class="marquee-content2 flex">
+    {dataLine2.map((row,index)=>{
+    return <Card title={row.title} logo={row.img} key={index} />
+    })}
+  </div>
+</div>
+
+<div class="marquee-container mt-10">
+  <div class="marquee-content flex">
+    {dataLine3.map((row,index)=>{
+    return <Card title={row.title} logo={row.img} key={index} />
+    })}
+  </div>
+</div>
+
+       {/* <div className='flex overflow-x-clip  marquee-conten' >
             {dataLine1.map((row,index)=>{
             return <Card title={row.title} logo={row.img} key={index} />
             })}
@@ -140,7 +244,7 @@ const Carosule = () => {
             {dataLine3.map((row,index)=>{
             return <Card title={row.title} logo={row.img} key={index} />
             })}
-       </div>
+       </div> */}
     
     </div>
   )

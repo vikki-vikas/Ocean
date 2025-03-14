@@ -16,7 +16,7 @@ const PeopleCard = () => {
 }
 
 const PeopleCard2 = () => {
-    return <div className='border p-4 border-opacity-75' >
+    return <div className='border p-4 border-opacity-75 row-span-2' >
         <div className='flex items-center gap-2' >
             <div className='w-12 h-12 bg-black rounded-full' >
 
@@ -38,13 +38,22 @@ const PeopleTalks = () => {
   return (
     <div className='py-10 text-white px-5' >
         <p className='text-center font-bold text-6xl' >What people talk about us</p>
-        <div className='grid grid-cols-4 grid-flow-dense gap-4 mt-20' >
+        <div className='grid grid-cols-4 auto-rows-auto grid-flow-dense gap-4 mt-20' >
             <PeopleCard />
             <PeopleCard />
             <PeopleCard />
             <PeopleCard />
             <PeopleCard />
             <PeopleCard2 />
+            <PeopleCard />
+            <PeopleCard />
+            <PeopleCard />
+            <PeopleCard />
+            <PeopleCard />
+            <PeopleCard />
+            <PeopleCard />
+            <PeopleCard />
+            <PeopleCard />
             <PeopleCard />
             <PeopleCard />
             <PeopleCard />

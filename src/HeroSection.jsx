@@ -6,7 +6,7 @@ import lines from './../public/Lines.png'
 
 const HeroSection = () => {
   return (
-    <div className='grid grid-cols-12 bg-blue-500 place-items-center gap-4 pb-6 relative' >
+    <div className='grid grid-cols-12 place-items-center gap-4 pb-6 relative' >
 
         <img src={tenX} width={1145} alt="" className='absolute z-20' />
         <img src={lines} alt="" className='absolute -top-10 z-0' />

@@ -9,6 +9,7 @@ import HeroSection from './HeroSection'
 import OurTeam from './OurTeam'
 import PeopleTalks from './PeopleTalks'
 import ProvenResults from './provenResults'
+import Services from './Services'
 import WhyOcen from './WhyOcen'
 
 
@@ -21,6 +22,7 @@ function App() {
       <ProvenResults />
       <PeopleTalks />
       <WhyOcen />
+      <Services />
       <Carosule />
       <FreeConsultation />
       <AboutUs />
